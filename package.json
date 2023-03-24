@@ -1,0 +1,23 @@
+{
+  "name": "apiproject",
+  "version": "1.0.0",
+  "description": "REST API w/ Nodejs, Express, Typescript &amp; MongoDB +Auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtgfba/ApiProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtgfba/ApiProject/issues"
+  },
+  "homepage": "https://github.com/rtgfba/ApiProject#readme",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
